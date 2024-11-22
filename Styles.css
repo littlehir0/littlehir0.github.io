@@ -1,0 +1,44 @@
+body{
+    background-color:#432E54;
+    color: #FFFFFF;
+    font-family: arial;
+    margin: 50px;
+
+}
+b{
+    color: #E8BCB9;
+}
+
+a{
+    color:#c5ca29;
+    background-color: #4B4376;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+ul{
+   font-family: 'Times New Roman', Times, serif;
+   font-style: oblique;
+   font-size: 20px;
+
+}
+#ulist{
+    font-family: arial;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+#pselected {
+    text-align: center;
+    font-size: 20px;
+}
+hr{
+    color: #AE445A;
+}
+
+img{
+    border-radius: 20px;
+}
